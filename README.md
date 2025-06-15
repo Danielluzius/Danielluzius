@@ -13,7 +13,7 @@
 ###
 
 <h1 align="center">Hey there, I'm Daniel 👋</h1>
-<p align="left">Aspiring Fullstack Developer from Seligenstadt, near Frankfurt 🇩🇪</p>
+<p align="center">Aspiring Fullstack Developer from Seligenstadt, near Frankfurt 🇩🇪</p>
 
 ###
 
