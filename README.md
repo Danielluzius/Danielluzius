@@ -12,15 +12,19 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there, I'm Daniel 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">Aspiring Fullstack Developer from Seligenstadt, near Frankfurt 🇩🇪</p>
 
 ###
 
-<p align="left">I'm Daniel from Frankfurt (Germany)<br><br>- 📚 I'm currently learning HTML/CSS</p>
+<h3 align="left">👩‍💻  About Me:</h3>
+
+###
+
+<p align="left">I'm currently training with the [Developer Akademie](https://www.developerakademie.com/) and diving into the fundamentals of HTML & CSS.  <br><br>My mission? To build modern web applications from front to back – and never stop learning along the way.<br><br>🚀 Passionate about coding, creativity, and clean design  <br>💡 Switching careers with purpose and persistence  <br>🌱 Up next: JavaScript, React & Node.js<br><br>---<br><br>Feel free to explore my projects – I'm always open to feedback, collaboration, or just connecting with fellow devs!</p>
 
 ###
 
@@ -36,9 +40,5 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 ###
