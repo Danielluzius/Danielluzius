@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm currently training with the [Developer Akademie](https://www.developerakademie.com/) and diving into the fundamentals of HTML & CSS.  <br><br>My mission? To build modern web applications from front to back – and never stop learning along the way.<br><br>🚀 Passionate about coding, creativity, and clean design  <br>💡 Switching careers with purpose and persistence  <br>🌱 Up next: JavaScript, React & Node.js<br><br>---<br><br>Feel free to explore my projects – I'm always open to feedback, collaboration, or just connecting with fellow devs!</p>
+<p align="left">I'm currently training with the [Developer Akademie](https://www.developerakademie.com/) and diving into the fundamentals of JS.  <br><br>My mission? To build modern web applications from front to back – and never stop learning along the way.<br><br>🚀 Passionate about coding, creativity, and clean design  <br>💡 Switching careers with purpose and persistence  <br>🌱 Up next: JavaScript, React & Node.js<br><br>---<br><br>Feel free to explore my projects – I'm always open to feedback, collaboration, or just connecting with fellow devs!</p>
 
 ###
 
