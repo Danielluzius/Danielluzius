@@ -8,7 +8,9 @@
 
 ###
 
-<p align="center">Web Developer in training from Seligenstadt, near Frankfurt 🇩🇪</p>
+<p align="center">
+  Fullstack Web Developer in training from Seligenstadt, near Frankfurt 🇩🇪
+</p>
 
 ###
 
@@ -20,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo" />
   <img width="12" />
@@ -35,11 +41,17 @@
 ###
 
 <p align="left">
-  I'm currently training with the <a href="https://www.developerakademie.com/" target="_blank">Developer Akademie</a>, focusing on building responsive and scalable web applications using modern frontend and backend technologies.<br><br>
-  My goal is to create clean, user-friendly interfaces and efficient code that brings ideas to life.<br><br>
+  I'm currently training with the 
+  <a href="https://www.developerakademie.com/" target="_blank">Developer Akademie</a>, 
+  focusing on building responsive and scalable web applications using modern frontend and backend technologies.
+  <br><br>
+  My goal is to create clean, user-friendly interfaces and efficient code that brings ideas to life.
+  <br><br>
   🚀 Passionate about web development, UI/UX, and continuous learning<br>
   💡 Career changer with purpose and persistence<br>
-  🌱 Skilled in JavaScript, TypeScript, Angular, Firebase & REST APIs<br><br>
+  🌱 Skilled in JavaScript, TypeScript, Angular, Firebase & REST APIs<br>
+  🌱 Practical experience with React & Next.js through structured frontend projects (TypeScript, routing, API integration)
+  <br><br>
   ---
   <br><br>
   Feel free to explore my projects — I'm always open to feedback, collaboration, or connecting with fellow developers!
